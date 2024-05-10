@@ -22,7 +22,7 @@ git commit -m "Primeiro commit"
 
 Se já criou um repositório no GitHub com o nome "teste-2", adicione esse repositório como remoto:
 
-git remote add origin https://github.com/seu_usuario/teste-2.git
+git remote add origin https://github.com/FelipeDeSouzaAraujo/teste-2.git
 
 Substitua `seu_usuario` pelo seu nome de usuário do GitHub.
 
