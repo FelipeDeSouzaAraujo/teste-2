@@ -24,8 +24,6 @@ Se já criou um repositório no GitHub com o nome "teste-2", adicione esse repos
 
 git remote add origin https://github.com/FelipeDeSouzaAraujo/teste-2.git
 
-Substitua `seu_usuario` pelo seu nome de usuário do GitHub.
-
 ## 6. Envie seus arquivos para o repositório remoto:
 
 git push -u origin master
